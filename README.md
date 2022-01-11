@@ -1,4 +1,4 @@
-# assignment2-les-vegan
+# Word-translator
 
 This project is a group project for the Deep Learning class of the IASD Master's Degree.
 
